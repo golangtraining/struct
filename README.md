@@ -1,0 +1,2 @@
+# struct
+go struct example
